@@ -9,7 +9,7 @@ header {
     width: auto;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position:center;
     padding-bottom: 10rem;
 }
 .h2-e {
@@ -43,6 +43,7 @@ h2{
     font: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 16px;
+    line-height: 1.5em;
 }
 .carousel-indicators {
     bottom:-55px;
