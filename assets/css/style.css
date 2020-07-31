@@ -12,6 +12,9 @@ header {
     background-position:center;
     padding-bottom: 10rem;
 }
+.h2-r{
+    color:  #3b3464;
+}
 .h2-e {
     font: 'Roboto', sans-serif;
     font-weight: bold;
@@ -32,7 +35,10 @@ h2{
     font-size: 72px;
 }
 .h2-e{
-    color:  #6355af;
+    color:  #3b3464;
+}
+.hr-e {
+    background-color:  #3b3464;;
 }
 .card-title{
     font: 'Roboto', sans-serif;
@@ -52,21 +58,38 @@ h2{
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: #6355af;
+    background-color: #3b3464;
 }
 .carousel-item img{
     width:100%;
 }
+.modal-header {
+    padding: 2rem 2rem 0 2rem;
+}
+.modal-body {
+    padding: 2rem;
+    text-align: left;
+}
+.modal-header {
+    border-bottom: none;
+}
+.modal-footer {
+    border-top:none;
+}
+
 .h2-m{
     font: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 57px;
 }
 .fondo-lila{
-    background-color: #6355af;
+    background-color: #3b3464;
 }
 .fab{
     color: white;
+}
+.border-bottom {
+    size: 12rem;
 }
 .contacto-personal{
     font: 'Roboto', sans-serif;
@@ -75,6 +98,7 @@ h2{
     font-weight: bold;
     padding-right: 50px;
 }
+
 .fondo-black {
     background-color: black;
 }
